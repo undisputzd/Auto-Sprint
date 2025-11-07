@@ -1,1 +1,4 @@
 With the latest Minecraft Bedrock Edition update, the options.txt file path has been relocated in an unexpected manner. To address this, I've developed a cross-compatible auto sprint utility that supports both UWP and GDK versions of Minecraft, ensuring long-term stability and compatibility across future updates.
+
+Join my discord server below 😄:
+https://discord.gg/sCWYtYDjjr
